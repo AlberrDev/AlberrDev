@@ -9,9 +9,9 @@
 
 Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate about JavaScript, React, Python, Django, and the limitless opportunities in web development. :wink:
  
- 🔭 Lorem.
+ 🔭 I'm simultaneously seeking to expand my knowledge in the programming world through self-driven exploration while  enrolled in my studies.:book:
  
- 🌱 I’m currently learning <img src=>
+ 🌱 "I am currently focused on earning my degree and learning from the hands-on project.
  
 
 
@@ -22,11 +22,21 @@ Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate 
 
 ### Languages
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/Logo%20java.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/css%20logo.png"></code>
+<br><br>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/htmlk%20logo.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/logo%20django.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/logo%20docker.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/logo%20github.png"></code>
+<code><img height="25" src="https://github.com/AlberrDev/AlberrDev/blob/main/tailwind%20logo.jpeg"></code>
+
+
 
 
 ---
