@@ -1,106 +1,59 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%">
-</div>  
-  
+### <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+### Hey AlberrDev here 👋
 
-### <div align="center">Hi 👋, I'm AlberrDev
-A passionate student that is learning how to program.</div>  
-  
+---
 
-- 🔭 I’m currently 
-a Microcomputer systems and networks technician  
-  
+<p align="center">
+  <img src="https://github.com/AlberrDev/AlberrDev/blob/main/Banner%20Github.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🌱 I’m currently learning  Java and SQL  
-  
-
-- ⚡ Recommendation: I will recommend to press Ctrl +S a few times :) 
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate about JavaScript, React, Python, Django, and the limitless opportunities in web development. :wink:
+ 
+ 🔭 Lorem.
+ 
+ 🌱 I’m currently learning <img src=>
+ 
 
 
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
 
-</td><td valign="top" width="33%">
+---
 
 
+### Languages
 
-### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+![GitHub stats](https://camo.githubusercontent.com/b40002bc85334224b6a2ba48f8d36fee8ef6c91110a1f69fbf54342a2908e78e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416c626572724465762673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565)
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AlberrDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alberrdev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+---
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlberrDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<br/>
 
-<!-- BLOG-POST-LIST:END -->  
+---
 
-<br/>  
+Let's connect 👨‍💻 and forge the future together.😁✌
 
-  
+**Check the Repositories and don't forget to give a star.** 👇
 
-<br/>  
+:star: From [AlberrDev](https://github.com/AlberrDev)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlberrDev&&style=flat-square" align="center" />
-</div>  
-  
+[linkedin]:https://www.linkedin.com/in/alberrdev/
 
-<br/>  
+<p align="center">
+  <img src="https://camo.githubusercontent.com/a2771895e2d8b7829d55079f7bd213de3c328b615f177989e1d5fe8655990fc2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416c6265727244657626267374796c653d666c61742d737175617265" alt="Profile views">
+</p>
 
-
-<br />
