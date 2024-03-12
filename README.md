@@ -11,7 +11,7 @@
 
 Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate about JavaScript, React, Python, Django, and the limitless opportunities in web development. 😉
 
- 🔭 I'm simultaneously seeking to expand my knowledge in the programming world through self-driven exploration while  enrolled in my studies.:book:
+ 🔭 I'm simultaneously seeking to expand my knowledge in the programming world through self-driven exploration while  enrolled in my studies.
 
  🌱 "I am currently focused on earning my degree and learning from the hands-on project.
 
