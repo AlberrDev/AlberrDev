@@ -1,7 +1,6 @@
 
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h2 align="center">Hey AlberrDev here!👋</h2> 
+
 <p align="center">
   <img src="https://github.com/AlberrDev/AlberrDev/raw/main/Banner%20Github.png" alt="Banner">
 </p>
@@ -51,22 +50,12 @@ Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate 
 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlberrDev&show_icons=true&count_private=true&hide_border=true&theme=vue" alt="GitHub Stats">
-</p>
-
----
-
 ### 🚀 Let's Connect and Build the Future Together
 
 **Check the Repositories and don't forget to give a star.** :star:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberrdev/)
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlberrDev&style=flat-square" alt="Profile views">
