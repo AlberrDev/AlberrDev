@@ -56,7 +56,9 @@ Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberrdev/)
-[![gmail](https://img.shields.io/badge/Gmail-alberrdev%40gmail.com-black?style=for-the-badge&logo=Gmail&labelColor=262626&link=mailto%3Aalberrdev%40gmail.com)](mailto:alberrdev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&labelColor=262626)](mailto:alberrdev@gmail.com)
+
+
 
 
 
