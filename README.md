@@ -2,17 +2,18 @@
 
 
 <p align="center">
-  <img src="https://github.com/AlberrDev/AlberrDev/raw/main/Banner%20Github.png" alt="Banner">
+  <img src="https://github.com/AlberrDev/AlberrDev/raw/main/New Banner.png" alt="Banner">
 </p>
 
 
 ---
 
-Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate about JavaScript, React, Python, Django, and the limitless opportunities in web development. 😉
+I am a Full Stack Development and Software Engineering student, starting my path toward specializing in Data Management. I am currently working with the MERN stack and exploring specific tools and languages for data handling, aiming to deepen my knowledge in this field. 😉
 
- 🔭 I'm simultaneously seeking to expand my knowledge in the programming world through self-driven exploration while  enrolled in my studies.
 
- 🌱 "I am currently focused on earning my degree and learning from the hands-on project.
+🔭 I’m actively expanding my knowledge in the programming world through self-driven exploration while pursuing my engineering studies.
+
+🌱 Currently focused on earning my degree and adding value to the company I’m working with.
 
 ---
 
@@ -22,18 +23,22 @@ Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
 
 
 
 ### 🚀 Web Technologies
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=101010)](https://getbootstrap.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](https://www.docker.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](https://www.typescriptlang.org/)
+<br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=101010)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)](https://reactjs.org/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](https://sass-lang.com/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://astro.build/)
 
 
 
@@ -45,6 +50,7 @@ Aspiring DAW student on the path to becoming a Full Stack Developer. Passionate 
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=101010)](https://www.nginx.com/)
 [![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=101010)](https://httpd.apache.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=101010)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)](https://www.docker.com/)
 
 ---
 
